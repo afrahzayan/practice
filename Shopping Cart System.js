@@ -24,3 +24,8 @@ function abc(aaa) {
     
     
 }abc(my)
+
+
+
+
+//hello afrah
